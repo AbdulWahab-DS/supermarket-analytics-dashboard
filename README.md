@@ -1,2 +1,3 @@
 # supermarket-analytics-dashboard
-"Power BI Dashboard project, analyzing supermarket sales dataset"
+"This repository contains my Power BI dashboard based on supermarket sales data.
+The dashboard includes sales trends, product performance, and customer insights."
